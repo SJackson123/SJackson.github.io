@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Electric Vehicle Sales"
+excerpt: "Compare electric vehicle sales in the UK to other countries in Europe. Then I expand the scope of my analysis towards BEV and PHEV vehicles across the world.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
