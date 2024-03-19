@@ -12,9 +12,15 @@ The European market saw a 15.9% increase in electric vehicle (EV) sales from 202
   <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/GermanyLeading.png?raw=true"
     alt="Comparing EU countries" width="640" height="427"/>
 </p>
+
+The United Kingdom, despite being one of the first countries to embrace EVs back in 2010, has faced challenges in keeping up with the rapid growth seen in Germany and France. Factors such as inconsistent government policies, limited charging infrastructure, and fluctuating consumer incentives have hindered the UK’s ability to become a leading country in the electric vehicle industry. 
+
 <p align="center">
   <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/EUTrend.png?raw=true"
  alt="EU Trend Over Time" width="640" height="427"/>
 </p>
 
-The United Kingdom, despite being one of the first countries to embrace EVs back in 2010, has faced challenges in keeping up with the rapid growth seen in Germany and France. Factors such as inconsistent government policies, limited charging infrastructure, and fluctuating consumer incentives have hindered the UK’s ability to become a leading country in the electric vehicle industry. 
+<div style="display: flex; justify-content: center;">
+  <img src="image1.jpg" alt="Image 1" style="width: 200px; height: auto; margin-right: 10px;">
+  <img src="image2.jpg" alt="Image 2" style="width: 200px; height: auto;">
+</div>
