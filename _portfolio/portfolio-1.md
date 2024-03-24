@@ -1,26 +1,69 @@
 ---
 title: "Electric Vehicle Sales"
-excerpt: "Compare electric vehicle sales in the UK to other countries in Europe. Then I expand the scope of my analysis towards BEV and PHEV vehicles across the world.<br/><img src='/images/500x300.png'>"
+excerpt: "Compare electric vehicle sales in the UK to other countries in Europe. Then I expand the scope of my analysis towards BEV and PHEV vehicles across the world.<br/><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/WorldwideSales.png'>"
 collection: portfolio
 ---
 
-# Comparing the UK to Other European Countries
+# What is the global market share of plug-in hybrid electric vehicles compared to battery electric vehicles?
 
-The European market saw a 15.9% increase in electric vehicle (EV) sales from 2020 to 2021. This growth was mainly driven by Germany, contributing to 24.8% of the number of EV sales in Europe in 2022. Since 2020, Germany has realised a noticeable increase in EV sales, propelled by stringent CO2 emission regulations and a gradual transition toward zero-emission vehicles.
+* Plug-in hybrid electric vehicles (PHEVs) have both an engine and electric motor to power the car. They differ from regular hybrid vehicles by having a much larger battery with about 10 to 40 miles before their gas engines provide assistance <sup>[2]</sup>.
 
-<p align="center">
-  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/GermanyLeading.png?raw=true"
-    alt="Comparing EU countries" width="640" height="427"/>
-</p>
+* Battery electric vehicles (BEVs) are fully electric vehicles with rechargeable batteries and no combustion engine. 
 
-The United Kingdom, despite being one of the first countries to embrace EVs back in 2010, has faced challenges in keeping up with the rapid growth seen in Germany and France. Factors such as inconsistent government policies, limited charging infrastructure, and fluctuating consumer incentives have hindered the UK’s ability to become a leading country in the electric vehicle industry. 
+From the figure below, we see that Europe has the largest share of PHEVs in the electric vehicle market providing drivers with reassurance against the anxiety associated with the limited range of BEVs.
 
 <p align="center">
-  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/EUTrend.png?raw=true"
- alt="EU Trend Over Time" width="640" height="427"/>
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/MarketShareUsaEUChina.png?raw=true"
+ alt="EU Trend Over Time" width="640"/>
 </p>
+
+On the other hand, China has the largest share of Battery Electric Vehicles (BEV) due to strategic investments in electric vehicle technology since the early 2000s. Recognising the challenges in competing with established car manufacturers, China incentivised electric vehicle development by offering subsidies companies willing to take the risk. As a result, over the past two years, the number of electric vehicles produced in China has grown from 1.1 million to 6.4 million. For comparison, the EU only sold 1.8 million electric vehicles in 2022. This makes 2022 the eighth consecutive year in which China has the world’s largest market for electric vehicles.
+
+<p align="center">
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/compareChineUSAEU.png?raw=true"
+ alt="EU Trend Over Time" width="640"/>
+</p>
+
+We see a global increase in electric vehicles, and as we progress, this trend maintains an upward trajectory.
+
+<p align="center">
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/WorldwideSales.png?raw=true"
+ alt="EU Trend Over Time" width="640"/>
+</p>
+
+
+# Comparing the UK to Europe
+The European market saw a 4.65% increase in electric vehicle (EV) production from 2021 to 2022. This growth was mainly driven by Germany, contributing to 29.4% of the number of EV produced in Europe in 2022. 
 
 <div style="display: flex; justify-content: center;">
-  <img src="image1.jpg" alt="Image 1" style="width: 200px; height: auto; margin-right: 10px;">
-  <img src="image2.jpg" alt="Image 2" style="width: 200px; height: auto;">
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/GermanyPoweringEUMarket.png?raw=true" alt="Image 1" style="width: 250px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/GermanyLeading.png?raw=true" alt="Image 2" style="width: 250px; height: auto;">
 </div>
+
+<!-- <p align="center">
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/GermanyPoweringEUMarket.png?raw=true"
+    alt="Germany 29%" width="400" height="220"/>
+</p> -->
+
+Since 2020, Germany has noticeably increased EV production reaching a high of 690,000 vehicles produced in 2021. propelled by stringent CO2 emission regulations and a gradual transition toward zero-emission vehicles.
+
+<p align="center">
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/carProductionTrend.png?raw=true"
+ alt="EU Trend Over Time" width="640"/>
+</p>
+
+
+The United Kingdom, despite being one of the first countries to embrace EVs back in 2010, has faced challenges in keeping up with the rapid growth seen in Germany and France. Factors such as inconsistent government policies, limited charging infrastructure, and fluctuating consumer incentives have hindered the UK’s ability to become a leading country in the electric vehicle industry <sup>[1]</sup>.
+
+
+ 
+[1]: https://www.forbes.com/sites/neilwinton/2024/01/07/europe-needs-mass-market-evs-to-avoid-existential-threat/?sh=45322e2936db
+[2]: https://www.forbes.com/sites/neilwinton/2023/04/23/eu-slowly-killing-plug-in-hybrids-but-sales-will-accelerate-in-china/?sh=3b77b61f110e
+
+
+
+
+
+
+
+
