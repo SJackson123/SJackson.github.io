@@ -1,10 +1,10 @@
 ---
 title: "Electric Vehicle Sales"
-excerpt: "Compare electric vehicle sales in the UK to other countries in Europe. Then I expand the scope of my analysis towards BEV and PHEV vehicles across the world.<br/><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/WorldwideSales.png'>"
+excerpt: "Compare electric vehicle sales in the UK to other countries in Europe. Then I expand the scope of my analysis towards BEV and PHEV vehicles across the world.<br/><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/WorldwideSales.png?raw=true'>"
 collection: portfolio
 ---
 
-# What is the global market share of plug-in hybrid electric vehicles compared to battery electric vehicles?
+## What is the global market share of plug-in hybrid electric vehicles compared to battery electric vehicles?
 
 * Plug-in hybrid electric vehicles (PHEVs) have both an engine and electric motor to power the car. They differ from regular hybrid vehicles by having a much larger battery with about 10 to 40 miles before their gas engines provide assistance <sup>[2]</sup>.
 
@@ -32,13 +32,13 @@ We see a global increase in electric vehicles, and as we progress, this trend ma
 </p>
 
 
-# Comparing the UK to Europe
+## Comparing the UK to Europe
 The European market saw a 4.65% increase in electric vehicle (EV) production from 2021 to 2022. This growth was mainly driven by Germany, contributing to 29.4% of the number of EV produced in Europe in 2022. 
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/GermanyPoweringEUMarket.png?raw=true" alt="Image 1" style="width: 250px; height: auto; margin-right: 10px;">
-  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/GermanyLeading.png?raw=true" alt="Image 2" style="width: 250px; height: auto;">
-</div>
+<p align="center">
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/GermanyLeading.png?raw=true"
+ alt="EU Trend Over Time" width="640"/>
+</p>
 
 <!-- <p align="center">
   <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/GermanyPoweringEUMarket.png?raw=true"
