@@ -6,7 +6,7 @@ collection: portfolio
 
 ## What is the global market share of plug-in hybrid electric vehicles compared to battery electric vehicles?
 
-* Plug-in hybrid electric vehicles (PHEVs) have both an engine and electric motor to power the car. They differ from regular hybrid vehicles by having a much larger battery with about 10 to 40 miles before their gas engines provide assistance <sup>[2]</sup>.
+* Plug-in hybrid electric vehicles (PHEVs) have both an engine and electric motor to power the car. They differ from regular hybrid vehicles by having a much larger battery with about 10 to 40 miles before their combustion engines provide assistance <sup>[2]</sup>.
 
 * Battery electric vehicles (BEVs) are fully electric vehicles with rechargeable batteries and no combustion engine. 
 
