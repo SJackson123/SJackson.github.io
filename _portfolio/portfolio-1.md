@@ -17,7 +17,7 @@ From the figure below, we see that Europe has the largest share of PHEVs in the 
  alt="EU Trend Over Time" width="640"/>
 </p>
 
-On the other hand, China has the largest share of Battery Electric Vehicles (BEV) due to strategic investments in electric vehicle technology since the early 2000s. Recognising the challenges in competing with established car manufacturers, China incentivised electric vehicle development by offering subsidies companies willing to take the risk. As a result, over the past two years, the number of electric vehicles produced in China has grown from 1.1 million to 6.4 million. For comparison, the EU only sold 1.8 million electric vehicles in 2022. This makes 2022 the eighth consecutive year in which China has the world’s largest market for electric vehicles.
+On the other hand, China has the largest share of Battery Electric Vehicles (BEV) due to strategic investments in electric vehicle technology since the early 2000s. Recognising the challenges in competing with established car manufacturers, China incentivised electric vehicle development by offering subsidies to companies willing to take the risk. As a result, over the past two years, the number of electric vehicles produced in China has grown from 1.1 million to 6.4 million. For comparison, the EU only sold 1.8 million electric vehicles in 2022. This makes 2022 the eighth consecutive year in which China has the world’s largest market for electric vehicles.
 
 <p align="center">
   <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/compareChineUSAEU.png?raw=true"
