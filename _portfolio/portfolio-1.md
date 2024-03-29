@@ -45,7 +45,7 @@ The European market saw a 4.65% increase in electric vehicle (EV) production fro
     alt="Germany 29%" width="400" height="220"/>
 </p> -->
 
-Since 2020, Germany has noticeably increased EV production reaching a high of 690,000 vehicles produced in 2021. propelled by stringent CO2 emission regulations and a gradual transition toward zero-emission vehicles.
+Since 2020, Germany has noticeably increased EV production reaching a high of 690,000 vehicles produced in 2021. This is likely due to the stringent CO2 emission regulations and a gradual transition toward zero-emission vehicles.
 
 <p align="center">
   <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/carProductionTrend.png?raw=true"
