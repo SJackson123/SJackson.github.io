@@ -1,6 +1,6 @@
 ---
 title: "US Housing Market"
-excerpt: "Create an interactive dashboard of the US Housing Market from 2002 to 2022. I then analyse two large spikes in sales in 2016 and 2021.<br/><center><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/us_housing/us_housing_4.png?raw=true' width='480px'></center>"
+excerpt: "Create an interactive dashboard of the US Housing Market from 2002 to 2022. I then analyse two large spikes in sales in 2016 and 2021.<br/><center><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/us_housing/us_housing_4.png?raw=true' width='640px'></center>"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 
 <p align="center">
   <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/us_housing/us_housing_3.png?raw=true?raw=true"
- alt="EU Trend Over Time" width="640px"/>
+ alt="EU Trend Over Time" width="1200px"/>
 </p>
 
 Both spikes occur from an abnormally large sale amount. In December 2016 there were 9 high rise apartments blocks sold in Stamford, Connecticut. According to the dataset each block was sold for $395,000,000. This seems too large. 
