@@ -1,6 +1,6 @@
 ---
 title: "Electric Vehicle Production"
-excerpt: "Compare electric vehicle production in the UK to other countries in Europe. Then I expand the scope of my analysis towards BEV and PHEV vehicles across the world.<br/><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/car_sales/WorldwideSales.png?raw=true'alt="Car Sales" width="480">"
+excerpt: "Compare electric vehicle production in the UK to other countries in Europe. Then I expand the scope of my analysis towards BEV and PHEV vehicles across the world.<br/><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/car_sales/WorldwideSales.png?raw=true' width='400px'>"
 collection: portfolio
 ---
 
