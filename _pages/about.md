@@ -9,7 +9,10 @@ redirect_from:
 
 # Personal Bio
 
-My name is Sebastian Jackson, and I am currently seeking a position as an Entry Level Data Analyst. I enjoy drawing insights from data and connecting them to tell a story. This blend of technical and creative aspects serves as motivation for building a career in Data Analytics.
+&#x1F600;
+\xE2\x9C\x8B 
+U+1F601
+ My name is Sebastian Jackson, and I am currently seeking a position as an Entry Level Data Analyst. I enjoy drawing insights from data and connecting them to tell a story. This blend of technical and creative aspects serves as motivation for building a career in Data Analytics.
 
 My combination of skills, backed by a resourceful and dependable attitude, equips me for a wide range of positions. I have an MSc in Computer Science from the University of Bath and a BSC in Economics & Mathematics from the University of Sheffield.
 
