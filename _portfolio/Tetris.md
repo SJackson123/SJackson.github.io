@@ -4,7 +4,7 @@ excerpt: "Developed a Tetris environment to compare the performance of Deep Q le
 collection: portfolio
 ---
 <p align="center">
-  <img src="https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation_looped_long.gif" alt="Tetris Animation" />
+  <img src="https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation_looped_long.gif" alt="Tetris Animation" width="300">
 </p>
 
 ## Project Goal
