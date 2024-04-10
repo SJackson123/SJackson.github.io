@@ -4,6 +4,8 @@ excerpt: "Combined SQL and Python to perform exploratory data analysis on the Ad
 collection: portfolio
 ---
 
+Check out the repository <a href="https://github.com/SJackson123/AdventureWorks2019-Analysis">here</a>
+
 During week 8 of my Data Analyst bootcamp at Generation, in groups of 4, we were tasked with completing a report on the database structure (ER diagrams and Schemas) and analysing the data to provide insights to six specific questions. This repository contains the code I developed to address three of those questions:
 
 4. **What is the relationship between sick leave and Job Title (PersonType)?**
