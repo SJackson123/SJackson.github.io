@@ -3,6 +3,9 @@ title: "Combining Reinforcement Learning and Evolutionary Strategies in Tetris"
 excerpt: "Developed a Tetris environment to compare the performance of Deep Q learning with the cross entropy method. We then propose a novel approach that combines the strenghts of both algorithms."
 collection: portfolio
 ---
+<p align="center">
+  <img src="https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation_looped_long.gif" alt="Tetris Animation" />
+</p>
 
 ## Project Goal
 This project trained an agent to clear as many lines in Tetris using Deep Q networks and the Cross entropy method. Tetris is a classical puzzle game that provides an ideal testing ground for comparing the effectiveness of reinforcement learning and evolutionary strategies. To accomplish our aim we:
@@ -18,10 +21,6 @@ in performance and highlight DQN’s sensitivity to hyper-parameters in Tetris.
 based (DQN) methods, we use CE’s direct policy search to identify promising solutions.
 Then, we use DQN’s iterative updates to fine-tune the policy with the ultimate goal of
 clearing more lines. We observe limited learning
-
-<p align="center">
-  <img src="https://github.com/SirSebLancelot/Tetris-Reinforcement-Learning/raw/main/dqn_results/results20x10/tetris_animation_looped_long.gif" alt="Tetris Animation" />
-</p>
 
 ## Results:
 

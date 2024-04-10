@@ -21,20 +21,19 @@ During week 8 of my Data Analyst bootcamp at Generation, in groups of 4, we were
 To start off, we define how we categories people. In the AdventureWorks2019 dataset, there are 6 categories of people:
 
 <p align="center">
-  <img src="images\AdventureWorks\PersonType.png" alt="person_type" />
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/AdventureWorks/PersonType.png?raw=true" alt="person_type" width="300px"/>
 </p>
 
 Only Sales Person (SP) and employees (EM) are elegible for sick leave hours. From the figure below, we see an almost uniform distribution of sick leave hours which tapers off after 70 hours.
 
 <p align="center">
-  <img src="images\AdventureWorks\histogram_hours.png
-" alt="sick leave hours distribution" />
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/AdventureWorks/histogram_hours.png?raw=true" alt="sick leave hours distribution" width="640px"/>
 </p>
 
 However, plotting the distribution of sick leave hours for each employee type tells a different story:
 
 <p align="center">
-  <img src="images\AdventureWorks\boxplot_persontype.png" alt="normalised histogram" />
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/AdventureWorks/boxplot_persontype.png?raw=true" alt="normalised histogram" width="640px"/>
 </p>
 
 The box plot above compares the distribution of sick leave hours for EM and SP employees. Both distributions are relatively symmetric, with no outliers. This suggests the majority of sick leave hours fall within the interquartile range for both employee groups.
@@ -44,7 +43,7 @@ There is a noticeable difference when looking at the spread of sick leave hours 
 These findings may indicate differences in sick leave policies between the two employee groups.
 
 <p align="center">
-  <img src="images\AdventureWorks\hist_separate_type.png" alt="normalised histogram" />
+  <img src="https://github.com/SJackson123/SJackson.github.io/blob/master/images/AdventureWorks/hist_separate_type.png?raw=true" alt="normalised histogram" width="640"/>
 </p>
 
 The histogram above illustrates the distribution of sick leave hours for two employee types: Employee non-sales (EM) and Sales person. The sick leave hours have been normalised to directly compare between the two groups.
@@ -53,6 +52,6 @@ Focusing on the histogram for EM employees, it has a nearly uniform distribution
 
 In contrast, the histogram for SP employees shows a more concentrated distribution of sick leave hours, with 94.12% of SP employees falling between 30 to 40 hours. This indicates that SP employees are more likely to take less sick leave hours compared to their EM employees. However, the sample size of SP employees is only 17, while there are 273 EM employees. The small sample size of SP employees limits the robustness of sick leave in this group.
 
-You can find the analysis for Q5 and Q6 in their respective Jupyter Notebook files [here](https://github.com/SJackson123/AdventureWorks2019-Analysis/blob/main/Q5_analysis.ipynb) and [here](https://github.com/SJackson123/AdventureWorks2019-Analysis/blob/main/Q6_analysis_final.ipynb).
+You can find the analysis for Q5 and Q6  [here](https://github.com/SJackson123/AdventureWorks2019-Analysis/blob/main/Q5_analysis.ipynb) and [here](https://github.com/SJackson123/AdventureWorks2019-Analysis/blob/main/Q6_analysis_final.ipynb).
 
 
