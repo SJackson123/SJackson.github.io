@@ -52,6 +52,6 @@ Focusing on the histogram for EM employees, it has a nearly uniform distribution
 
 In contrast, the histogram for SP employees shows a more concentrated distribution of sick leave hours, with 94.12% of SP employees falling between 30 to 40 hours. This indicates that SP employees are more likely to take less sick leave hours compared to their EM employees. However, the sample size of SP employees is only 17, while there are 273 EM employees. The small sample size of SP employees limits the robustness of sick leave in this group.
 
-You can find the analysis for Q5 and Q6  [here](https://github.com/SJackson123/AdventureWorks2019-Analysis/blob/main/Q5_analysis.ipynb) and [here](https://github.com/SJackson123/AdventureWorks2019-Analysis/blob/main/Q6_analysis_final.ipynb).
+Thank you for reading. You can find the analysis for Q5 and Q6  [here](https://github.com/SJackson123/AdventureWorks2019-Analysis/blob/main/Q5_analysis.ipynb) and [here](https://github.com/SJackson123/AdventureWorks2019-Analysis/blob/main/Q6_analysis_final.ipynb).
 
 
