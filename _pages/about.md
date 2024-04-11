@@ -30,5 +30,5 @@ Hello, I'm Sebastian Jackson and I am currently seeking a position as an Entry L
 - Using Power BI to create dashboards and reports
 - Currently studying towards the Microsoft PL-900 exam which focuses on how Power Platform Applications can be used to solve business problems.
 
-<p align="justify">With a blend of theoretical and practical programming skills, I am eager to apply my skills and learn best practicing within a data analyst role.</p>
+<p align="justify">With a blend of theoretical and practical programming skills, I am eager to learn and apply my skills and learn best practices within a data analyst role.</p>
 
