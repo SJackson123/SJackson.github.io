@@ -2,7 +2,6 @@
 title: "AdventureWorks2019 Exploratory Data Analysis"
 excerpt: "Combined SQL and Python to perform exploratory data analysis on the AdventureWorks2019 dataset."
 collection: portfolio
-date: 2024-04-06
 ---
 
 Check out the repository <a href="https://github.com/SJackson123/AdventureWorks2019-Analysis">here</a>

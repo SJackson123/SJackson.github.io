@@ -2,7 +2,6 @@
 title: "US Housing Market"
 excerpt: "Create an interactive dashboard of the US Housing Market from 2002 to 2022. I then analyse two large spikes in sales in 2016 and 2021.<br/><center><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/us_housing/us_housing_4.png?raw=true' width='640px'></center>"
 collection: portfolio
-date: 2024-03-23
 ---
 
 <p align="justify">In this project, I used Excel to analyse US Housing Market Data from 2002 to 2022. Given the dataset was over 1 million lines (limit of an excel file), I used the Power Query editor to load the data into Excel’s data model, preventing any data loss. Additionally, Power Query was useful for transforming my data. I wanted to calculate month over month performance in sales, however, Excel would automatically calculate month over month sales starting each year and return a blank value for January. You can get around this problem by creating a new column with the format ‘YYYYMM’.</p>

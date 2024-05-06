@@ -2,7 +2,6 @@
 title: "Electric Vehicle Production"
 excerpt: "Compare electric vehicle production in the UK to other countries in Europe. Then I expand the scope of my analysis towards BEV and PHEV vehicles across the world.<br/><center><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/car_sales/WorldwideSales.png?raw=true' width='640px'></center>"
 collection: portfolio
-date: 2024-03-32
 ---
 
 In this project I analyse an electric vehicle dataset using Excel and Pivot tables. 
