@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-&#9995; I am currently completing a Data Analyst Bootcamp at [Generation](https://uk.generation.org/programs/data-analytics-2/)
+&#9995; Completing the Data Analyst Bootcamp at [Generation](https://uk.generation.org/programs/data-analytics-2/)
 
 &#128202; Currently searching for a position as an entry level Data Analyst or anything to do with data
 
