@@ -1,6 +1,6 @@
 ---
 title: "Olist "
-excerpt: "Power BI report on Olist E-Commerce Reviews<br/><center><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/olist/scr1.png?raw=true?raw=true' width='640px'></center>"
+excerpt: "Power BI report on Olist E-Commerce Reviews.<br/><center><img src='https://github.com/SJackson123/SJackson.github.io/blob/master/images/olist/scr1.png?raw=true?raw=true' width='640px'></center>"
 collection: portfolio
 ---
 In this project, I make a Power BI report on feedback from Olist reviews with drill down fields and tool tips.

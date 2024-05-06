@@ -1,6 +1,6 @@
 ---
 title: "Combining Reinforcement Learning and Evolutionary Strategies in Tetris"
-excerpt: "Developed a Tetris environment to compare the performance of Deep Q learning with the cross entropy method. We then propose a novel approach that combines the strenghts of both algorithms."
+excerpt: "Developed a Tetris environment to compare the performance of Deep Q learning with the cross entropy method. I then propose a novel approach that combines the strenghts of both algorithms."
 collection: portfolio
 ---
 Check out the repository <a href="https://github.com/SJackson123/Tetris-Reinforcement-Learning">here</a>
