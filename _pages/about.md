@@ -11,7 +11,7 @@ redirect_from:
 
 &#128202; Currently searching for a position as an entry level Data Analyst or anything to do with data
 
-&#127884; In my spare time I am teaching myself Japanese
+&#127884; I am teaching myself Japanese in my spare time
 
 # Personal Bio
 
