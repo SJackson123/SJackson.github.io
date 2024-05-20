@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/Sebastian_Jackson_CV2.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
