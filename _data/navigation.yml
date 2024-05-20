@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: https://github.com/SJackson123/SJackson.github.io/blob/master/files/Sebastian_Jackson_CV1.docx.pdf
+    url: /files/Sebastian_Jackson_CV1.docx.pdf
     # url: /files/Sebastian_Jackson_CV.pdf/
     
   - title: "Portfolio"
