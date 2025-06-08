@@ -4,7 +4,7 @@ main:
     url: /files/Sebastian_Jackson_CV.pdf
     # url: /files/Sebastian_Jackson_CV.pdf/
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
     
   # - title: "Publications"
